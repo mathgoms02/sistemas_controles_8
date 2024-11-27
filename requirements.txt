@@ -1,0 +1,6 @@
+
+control==0.10.1
+matplotlib==3.8.0
+numpy==1.26.0
+sympy==1.13
+tbcontrol==0.1.0
