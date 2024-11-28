@@ -25,7 +25,7 @@ Embora o repositório contenha diversos códigos relevantes para a disciplina, *
 2. **[diagrama de Nyquist/nyquist PROVA.py](diagrama%20de%20Nyquist/nyquist%20PROVA.py)**  
    Gera o diagrama de Nyquist para análise de estabilidade em malha aberta e fechada.
 
-3. **[Aula 3 - Controle na prática/diagrama_polos_zeros PROVA.py](Aula%203%20-%20Controle%20na%20pr%C3%A1tica/diagrama_polos_zeros%20PROVA.py)**  
+3. **[Aula 3 - Controle na prática/diagrama_polos_zeros PROVA.py](aula_python/Aula%203%20-%20Controle%20na%20pr%C3%A1tica/diagrama_polos_zeros%20PROVA.py)**  
    Realiza a análise de polos e zeros de uma função de transferência e a resposta ao degrau unitário.
 
 Esses arquivos estão destacados porque abordam conceitos que serão cobrados na prova. **Revisar esses códigos é fundamental para o seu sucesso!** ⚠️
